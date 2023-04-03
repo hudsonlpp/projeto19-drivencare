@@ -29,4 +29,4 @@ export function handle(err, req, res, next) {
   });
 }
 
-export default { handle };
+export default handle;
